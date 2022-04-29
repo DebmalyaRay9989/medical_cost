@@ -25,8 +25,9 @@ SECRET_KEY = '%&^(o)89=1_u8^5cw)w^c2-bhr0%0#-i04@604)neyqc4-p*pd'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 
+# SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
-ALLOWED_HOSTS = ['103.102.120.135', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['customer-revenue-shop.herokuapp.com', '127.0.0.1']
 
 # Application definition
 

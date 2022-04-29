@@ -1,15 +1,3 @@
-The Medium Partnership Program is now eligible for Indian writers too. Writing by itself is always helpful. There is an audience and 
-community for each type of writing. What you need to check is the consistency of writing for Medium. It is not a place for ads or to 
-leave affiliate links. It is meant for honest learning and sharing. No little information is useless. Somewhere the search is always On.
-
-Now medium is open to India through Stripe payment and if you want to use the platform, you can do it for these advantages.
-9321668060
-
-Loyal and consistent readers
-===============================
-Sensible audience who really want to improve their skill
-Genuine ideas and lessons from author’s life is the speciality of medium. There is a personal touch in every article. 
-It is almost evidence based writing.
 
 
 """

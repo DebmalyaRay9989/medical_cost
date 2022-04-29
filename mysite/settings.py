@@ -26,7 +26,7 @@ SECRET_KEY = '%&^(o)89=1_u8^5cw)w^c2-bhr0%0#-i04@604)neyqc4-p*pd'
 # SECURITY WARNING: don't run with debug turned on in production!
 
 DEBUG = True
-ALLOWED_HOSTS = ['0.0.0.0', 'medical-cost-prediction.onrender.com', 'medical-cost-prediction', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
 
 # Application definition
 
